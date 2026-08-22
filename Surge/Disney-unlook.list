@@ -1,0 +1,9 @@
+# Disney+ 鉴权验证
+DOMAIN,disney.api.edge.bamgrid.com
+DOMAIN,disney.my.sentry.io
+DOMAIN,appconfigs.disney-plus.net
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,dssedge.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-KEYWORD,disneyplus
