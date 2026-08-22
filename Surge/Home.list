@@ -1,0 +1,9 @@
+# 核心控制进程
+PROCESS-NAME,homed,DIRECT
+PROCESS-NAME,Home,DIRECT
+# 远程控制
+DOMAIN,gateway.icloud.com,DIRECT
+DOMAIN-SUFFIX,apple-dns.net,DIRECT
+DOMAIN-KEYWORD,homekit,DIRECT
+# Apple专用端口放行
+DEST-PORT,5223,DIRECT
