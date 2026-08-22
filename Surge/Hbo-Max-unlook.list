@@ -1,0 +1,6 @@
+# HBO MAX 鉴权验证
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-KEYWORD,discomax
+DOMAIN-SUFFIX,hbo.relay.pndsn.com
